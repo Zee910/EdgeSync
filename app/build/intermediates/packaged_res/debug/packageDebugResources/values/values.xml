@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#2F6FED</color>
+    <string name="app_name">EdgeSync</string>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#0F172A</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.EdgeSync</item>
+    </style>
+    <style name="Theme.EdgeSync" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

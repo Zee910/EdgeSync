@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nexis.edgesync.app-mergeDebugResources-52:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\EdgeSync\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "79",
+                        "endOffsets": "91"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "141",
+                        "endColumns": "78",
+                        "endOffsets": "215"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-4\\e640390cf6ebadf8bef0b3371c76e68a\\transformed\\core-splashscreen-1.0.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    }
+                }
+            ]
+        }
+    ]
+}

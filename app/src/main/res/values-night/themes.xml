@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.EdgeSync" parent="android:Theme.Material.NoActionBar" />
+</resources>
